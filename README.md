@@ -125,11 +125,11 @@ Thanks for their nice contribution.
 ## :bookmark_tabs: Citation
 
 ```bibtex
-@article{dog2024,
-  title={Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models},
-  author={Jie Ma, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, and Lizhen Cui},
-  journal={arXiv preprint arXiv:2409.03155},
-  year={2024}
+@inproceedings{ma2024debate,
+  title={Debate on graph: a flexible and reliable reasoning framework for large language models},
+  author={Ma, Jie and Gao, Zhitao and Chai, Qi and Sun, Wangchun and Wang, Pinghui and Pei, Hongbin and Tao, Jing and Song, Lingyun and Liu, Jun and Zhang, Chen and others},
+  booktitle={AAAI},
+  year={2025}
 }
 
 
