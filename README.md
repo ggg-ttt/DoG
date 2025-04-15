@@ -125,10 +125,11 @@ Thanks for their nice contribution.
 ## :bookmark_tabs: Citation
 
 ```bibtex
-@inproceedings{ma2024debate,
+@inproceedings{ma2025debate,
   title={Debate on graph: a flexible and reliable reasoning framework for large language models},
   author={Ma, Jie and Gao, Zhitao and Chai, Qi and Sun, Wangchun and Wang, Pinghui and Pei, Hongbin and Tao, Jing and Song, Lingyun and Liu, Jun and Zhang, Chen and others},
-  booktitle={AAAI},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  pages={24768--24776},
   year={2025}
 }
 
